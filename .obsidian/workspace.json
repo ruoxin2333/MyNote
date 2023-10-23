@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7759ee8a11c0d3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "demo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年国赛.md",
+                "file": "demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022年国赛.md",
+                "file": "demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年国赛.md"
+                "file": "demo.md"
               }
             }
           },
@@ -154,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f227293e3e81c",
+  "active": "7759ee8a11c0d3aa",
   "lastOpenFiles": [
     "2022年国赛.md",
+    "demo.md",
     "信息安全笔记"
   ]
 }
