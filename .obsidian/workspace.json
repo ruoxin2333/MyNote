@@ -23,11 +23,10 @@
             "id": "7759ee8a11c0d3aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "RE.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +164,10 @@
   },
   "active": "7759ee8a11c0d3aa",
   "lastOpenFiles": [
-    "README.md",
-    "RE.md",
-    "2022年国赛.md",
     "demo.md",
+    "2022年国赛.md",
+    "RE.md",
+    "README.md",
     "Demo",
     "信息安全笔记"
   ]
