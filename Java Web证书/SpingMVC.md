@@ -1,5 +1,0 @@
-THIS
-IS
-POWERVER
-ASD
-lll
