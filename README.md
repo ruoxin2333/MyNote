@@ -1,6 +1,3 @@
 # MyNote
 
-THIS
-IS A 
-DEMO
-ASD
+Open source control view        打开 Obsidian git 视图

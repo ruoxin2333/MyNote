@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e45895ffab87463d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/2022年国赛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffc35189f36f4ff0",
+            "id": "2a561978f0015bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a774a8bc634b6eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/2022年国赛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a561978f0015bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java Web证书/JavaMVC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Web证书/JavaMVC.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Web证书/JavaMVC.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Web证书/JavaMVC.md"
+                "file": "README.md"
               }
             }
           },
@@ -191,10 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f227293e3e81c",
+  "active": "2a561978f0015bc4",
   "lastOpenFiles": [
-    "信息安全/2022年国赛.md",
     "Java Web证书/JavaMVC.md",
+    "Java Web证书.zip",
+    "信息安全/2022年国赛.md",
     "S",
     "SpringMVC",
     "信息安全",
