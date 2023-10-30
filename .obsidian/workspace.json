@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "信息安全/2022年国赛.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "信息安全/2022年国赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +103,28 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "信息安全/2022年国赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "8a04cfd1bab43b7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "信息安全/2022年国赛.md"
+              }
+            }
+          },
+          {
+            "id": "f0a2a8a8712b6307",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -118,27 +137,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "8a04cfd1bab43b7a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "f0a2a8a8712b6307",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,6 +158,7 @@
   "active": "2a561978f0015bc4",
   "lastOpenFiles": [
     "Java Web证书/JavaMVC.md",
+    "README.md",
     "Java Web证书.zip",
     "信息安全/2022年国赛.md",
     "S",
@@ -165,7 +167,6 @@
     "Java Web证书",
     "Java Web证书/SpingMVC.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "RE.md",
     "Java Web证书",
     "demo.md",
