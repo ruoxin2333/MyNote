@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50a07c6128b974de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
+                "file": "总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
+                "file": "总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md"
+                "file": "总结.md"
               }
             }
           },
@@ -167,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +193,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2351f201c2a422c6",
+  "active": "50a07c6128b974de",
   "lastOpenFiles": [
+    "信息安全/2022年国赛.md",
+    "network.md",
+    "总结.md",
+    "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
     "信息安全/DHCPV6",
     "信息安全/DHCPV6/DHCPV6.md",
-    "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
-    "信息安全/2022年国赛.md",
     "README.md",
     "d",
     "信息安全/2021国赛.md",
