@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/DHCPV6.md",
+                "file": "信息安全/DHCPV6/DHCPV6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2351f201c2a422c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/DHCPV6.md",
+                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/DHCPV6.md",
+                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/DHCPV6.md"
+                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md"
               }
             }
           },
@@ -167,11 +179,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8b60a10cdee69c3",
+  "active": "2351f201c2a422c6",
   "lastOpenFiles": [
+    "信息安全/DHCPV6",
+    "信息安全/DHCPV6/DHCPV6.md",
+    "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
     "信息安全/2022年国赛.md",
     "README.md",
-    "信息安全/DHCPV6.md",
     "d",
     "信息安全/2021国赛.md",
     "Java Web证书/JavaMVC.md",
