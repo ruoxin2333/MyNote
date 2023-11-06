@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8b60a10cdee69c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCPV6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2022年国赛.md",
+                "file": "DHCPV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2022年国赛.md",
+                "file": "DHCPV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2022年国赛.md"
+                "file": "DHCPV6.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,13 +168,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0a2a8a8712b6307",
+  "active": "a8b60a10cdee69c3",
   "lastOpenFiles": [
+    "README.md",
+    "DHCPV6.md",
+    "信息安全/2022年国赛.md",
     "d",
     "信息安全/2021国赛.md",
-    "信息安全/2022年国赛.md",
     "Java Web证书/JavaMVC.md",
-    "README.md",
     "Java Web证书.zip",
     "S",
     "SpringMVC",
