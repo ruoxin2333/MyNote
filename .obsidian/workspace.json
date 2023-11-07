@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a735c8dadaa1f478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息安全/随记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结.md",
+                "file": "信息安全/随记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结.md",
+                "file": "信息安全/随记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结.md"
+                "file": "信息安全/随记.md"
               }
             }
           },
@@ -193,11 +204,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50a07c6128b974de",
+  "active": "a735c8dadaa1f478",
   "lastOpenFiles": [
+    "总结.md",
+    "信息安全/随记.md",
+    "信息安全/未命名",
     "信息安全/2022年国赛.md",
     "network.md",
-    "总结.md",
     "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
     "信息安全/DHCPV6",
     "信息安全/DHCPV6/DHCPV6.md",
