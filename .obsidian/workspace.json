@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -204,7 +205,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8b60a10cdee69c3",
+  "active": "484f227293e3e81c",
   "lastOpenFiles": [
     "信息安全/随记.md",
     "总结.md",
