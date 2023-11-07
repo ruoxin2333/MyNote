@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "a8b60a10cdee69c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/DHCPV6/DHCPV6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2351f201c2a422c6",
             "type": "leaf",
             "state": {
@@ -56,6 +44,18 @@
             }
           },
           {
+            "id": "a8b60a10cdee69c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息安全/DHCPV6/DHCPV6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a735c8dadaa1f478",
             "type": "leaf",
             "state": {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
