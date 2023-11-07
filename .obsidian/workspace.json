@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/随记.md",
+                "file": "信息安全/DHCPV6/DHCPV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/随记.md",
+                "file": "信息安全/DHCPV6/DHCPV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/随记.md"
+                "file": "信息安全/DHCPV6/DHCPV6.md"
               }
             }
           },
@@ -204,10 +204,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a735c8dadaa1f478",
+  "active": "a8b60a10cdee69c3",
   "lastOpenFiles": [
-    "总结.md",
     "信息安全/随记.md",
+    "总结.md",
     "信息安全/未命名",
     "信息安全/2022年国赛.md",
     "network.md",
