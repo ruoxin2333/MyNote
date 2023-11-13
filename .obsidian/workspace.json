@@ -31,9 +31,11 @@
             "id": "e7b26f1fa18b8157",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg"
+                "file": "信息安全/2022国赛/2022国赛.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
+                "file": "信息安全/2022国赛/2022国赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
+                "file": "信息安全/2022国赛/2022国赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg"
+                "file": "信息安全/2022国赛/2022国赛.md"
               }
             }
           },
@@ -161,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +179,9 @@
   },
   "active": "e7b26f1fa18b8157",
   "lastOpenFiles": [
+    "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
     "image/设备",
     "DHCPV6有状态和无状态的区别.md",
-    "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
     "信息安全/2022国赛/2022国赛.md",
     "信息安全/设备",
     "信息安全/2022省赛（山东）/2022年省赛.md",
@@ -207,7 +211,6 @@
     "image/新建文件夹",
     "image/2022国赛",
     "image/屏幕截图 2023-11-11 102855.md",
-    "image",
     "屏幕截图.md",
     "信息安全/随记.md",
     "network.md",

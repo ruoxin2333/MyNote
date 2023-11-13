@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "image",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }
