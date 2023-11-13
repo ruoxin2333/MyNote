@@ -23,12 +23,8 @@
             "id": "301008fbc83bd188",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DHCPV6有状态和无状态的区别.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -165,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
