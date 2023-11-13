@@ -4,71 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "078989d7159606cc",
+        "id": "9e97828fb97a1bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "2a561978f0015bc4",
+            "id": "69e4f8561346f555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2022年国赛.md",
+                "file": "信息安全/2022国赛/2022国赛.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2351f201c2a422c6",
+            "id": "301008fbc83bd188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
+                "file": "DHCPV6有状态和无状态的区别.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50a07c6128b974de",
+            "id": "e7b26f1fa18b8157",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8b60a10cdee69c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/DHCPV6/DHCPV6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a735c8dadaa1f478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/随记.md",
-                "mode": "source",
-                "source": false
+                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -135,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6.md",
+                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6.md",
+                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/DHCPV6/DHCPV6.md"
+                "file": "image/设备/7d4874198a9516c6411276d5d35cceec.jpg"
               }
             }
           },
@@ -205,30 +178,50 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f227293e3e81c",
+  "active": "e7b26f1fa18b8157",
   "lastOpenFiles": [
+    "image/设备",
+    "DHCPV6有状态和无状态的区别.md",
+    "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
+    "信息安全/2022国赛/2022国赛.md",
+    "信息安全/设备",
+    "信息安全/2022省赛（山东）/2022年省赛.md",
+    "信息安全/2022国赛",
+    "README.md",
+    "信息安全/2022省赛（山东）/总结.md",
+    "2022年国赛.md",
+    "信息安全/2021国赛/完成反思.md",
+    "信息安全/2021国赛.md",
+    "信息安全/2021国赛/2021国赛.md",
+    "信息安全/2021国赛",
+    "信息安全/新建文件夹",
+    "信息安全/2022省赛（山东）/完成总结.md",
+    "信息安全/2022省赛（山东）",
+    "image/信息安全/2022国赛/屏幕截图 2023-11-11 101911.png",
+    "image/信息安全/2022国赛/Pasted image 20231111143347.png",
+    "image/信息安全/2022国赛/Pasted image 20231111142437.png",
+    "image/信息安全/2022国赛/Pasted image 20231111142122.png",
+    "image/信息安全/2022国赛/Pasted image 20231111141708.png",
+    "image/信息安全/2022国赛/Pasted image 20231111141427.png",
+    "image/信息安全/2022国赛/Pasted image 20231111141344.png",
+    "image/信息安全/2022国赛/Pasted image 20231111141148.png",
+    "image/信息安全/2022国赛/Pasted image 20231111141145.png",
+    "image/屏幕截图 2023-11-11 101911.png.md",
+    "image/信息安全/2022国赛",
+    "image/信息安全",
+    "image/新建文件夹",
+    "image/2022国赛",
+    "image/屏幕截图 2023-11-11 102855.md",
+    "image",
+    "屏幕截图.md",
     "信息安全/随记.md",
-    "总结.md",
-    "信息安全/未命名",
-    "信息安全/2022年国赛.md",
     "network.md",
     "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
-    "信息安全/DHCPV6",
     "信息安全/DHCPV6/DHCPV6.md",
-    "README.md",
-    "d",
-    "信息安全/2021国赛.md",
     "Java Web证书/JavaMVC.md",
-    "Java Web证书.zip",
-    "S",
-    "SpringMVC",
-    "信息安全",
-    "Java Web证书",
     "Java Web证书/SpingMVC.md",
     "conflict-files-obsidian-git.md",
     "RE.md",
-    "Java Web证书",
-    "demo.md",
-    "信息安全笔记"
+    "demo.md"
   ]
 }
