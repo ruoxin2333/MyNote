@@ -4,43 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "9e97828fb97a1bfc",
+        "id": "a9c4f6000b64af7b",
         "type": "tabs",
+        "dimension": 70.76023391812866,
         "children": [
-          {
-            "id": "69e4f8561346f555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/2022国赛/2022国赛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "301008fbc83bd188",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "e7b26f1fa18b8157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2022国赛/2022国赛.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "137399fe0a874aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "9e97828fb97a1bfc",
+        "type": "tabs",
+        "dimension": 29.239766081871345,
+        "children": [
+          {
+            "id": "6911a531a3a6ed0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1c3d7d5c7614cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息安全/2021国赛/2021国赛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2022国赛/2022国赛.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2022国赛/2022国赛.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2022国赛/2022国赛.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,24 +200,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e7b26f1fa18b8157",
+  "active": "137399fe0a874aa5",
   "lastOpenFiles": [
+    "信息安全/2023国赛/2023国赛笔记.md",
+    "conflict-files-obsidian-git.md",
+    "image/信息安全/2023国赛/Pasted image 20231115085407.png",
+    "image/信息安全/2023国赛/Pasted image 20231115085350.png",
+    "image/信息安全/2023国赛",
+    "image/信息安全/新建文件夹",
+    "信息安全/2022省赛（山东）/2022年省赛.md",
+    "信息安全/2021国赛/2021国赛.md",
+    "信息安全/2022省赛（山东）/完成总结.md",
+    "信息安全/备注/设备恢复出厂设置与密码恢复.md",
     "image/设备/7d4874198a9516c6411276d5d35cceec.jpg",
     "image/设备",
     "DHCPV6有状态和无状态的区别.md",
-    "信息安全/2022国赛/2022国赛.md",
     "信息安全/设备",
-    "信息安全/2022省赛（山东）/2022年省赛.md",
-    "信息安全/2022国赛",
+    "信息安全/2023国赛",
     "README.md",
     "信息安全/2022省赛（山东）/总结.md",
     "2022年国赛.md",
     "信息安全/2021国赛/完成反思.md",
     "信息安全/2021国赛.md",
-    "信息安全/2021国赛/2021国赛.md",
     "信息安全/2021国赛",
     "信息安全/新建文件夹",
-    "信息安全/2022省赛（山东）/完成总结.md",
     "信息安全/2022省赛（山东）",
     "image/信息安全/2022国赛/屏幕截图 2023-11-11 101911.png",
     "image/信息安全/2022国赛/Pasted image 20231111143347.png",
@@ -203,13 +232,9 @@
     "image/信息安全/2022国赛/Pasted image 20231111141708.png",
     "image/信息安全/2022国赛/Pasted image 20231111141427.png",
     "image/信息安全/2022国赛/Pasted image 20231111141344.png",
-    "image/信息安全/2022国赛/Pasted image 20231111141148.png",
-    "image/信息安全/2022国赛/Pasted image 20231111141145.png",
     "image/屏幕截图 2023-11-11 101911.png.md",
     "image/信息安全/2022国赛",
     "image/信息安全",
-    "image/新建文件夹",
-    "image/2022国赛",
     "image/屏幕截图 2023-11-11 102855.md",
     "屏幕截图.md",
     "信息安全/随记.md",
@@ -218,7 +243,6 @@
     "信息安全/DHCPV6/DHCPV6.md",
     "Java Web证书/JavaMVC.md",
     "Java Web证书/SpingMVC.md",
-    "conflict-files-obsidian-git.md",
     "RE.md",
     "demo.md"
   ]
