@@ -6,7 +6,7 @@
       {
         "id": "a9c4f6000b64af7b",
         "type": "tabs",
-        "dimension": 70.76023391812866,
+        "dimension": 78.16593886462883,
         "children": [
           {
             "id": "e7b26f1fa18b8157",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "9e97828fb97a1bfc",
         "type": "tabs",
-        "dimension": 29.239766081871345,
+        "dimension": 21.83406113537118,
         "children": [
           {
             "id": "6911a531a3a6ed0a",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "信息安全/2023国赛/2023国赛笔记.md"
               }
             }
           },
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +203,14 @@
   },
   "active": "137399fe0a874aa5",
   "lastOpenFiles": [
+    "image/信息安全/2023国赛/Pasted image 20231115091204.png",
+    "信息安全/2022省赛（山东）/2022年省赛.md",
     "信息安全/2023国赛/2023国赛笔记.md",
     "conflict-files-obsidian-git.md",
     "image/信息安全/2023国赛/Pasted image 20231115085407.png",
     "image/信息安全/2023国赛/Pasted image 20231115085350.png",
     "image/信息安全/2023国赛",
     "image/信息安全/新建文件夹",
-    "信息安全/2022省赛（山东）/2022年省赛.md",
     "信息安全/2021国赛/2021国赛.md",
     "信息安全/2022省赛（山东）/完成总结.md",
     "信息安全/备注/设备恢复出厂设置与密码恢复.md",
