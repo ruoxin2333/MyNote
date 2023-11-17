@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "信息安全/2022省赛（山东）/2022年省赛.md"
+              }
             }
           },
           {
@@ -196,9 +200,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a04cfd1bab43b7a",
+  "active": "6911a531a3a6ed0a",
   "lastOpenFiles": [
     "信息安全/2023国赛/2023国赛笔记.md",
+    "image/信息安全/2023国赛/Pasted image 20231116111618.png",
+    "image/信息安全/2023国赛/Pasted image 20231116111530.png",
+    "image/信息安全/2023国赛/Pasted image 20231116111510.png",
+    "image/信息安全/2023国赛/Pasted image 20231116110116.png",
+    "image/信息安全/2023国赛/Pasted image 20231116110016.png",
+    "image/信息安全/2023国赛/Pasted image 20231116104514.png",
     "信息安全/2022省赛（山东）/2022年省赛.md",
     "image/信息安全/2023国赛/Pasted image 20231115091204.png",
     "conflict-files-obsidian-git.md",
@@ -222,12 +232,6 @@
     "信息安全/2021国赛",
     "信息安全/新建文件夹",
     "信息安全/2022省赛（山东）",
-    "image/信息安全/2022国赛/屏幕截图 2023-11-11 101911.png",
-    "image/信息安全/2022国赛/Pasted image 20231111143347.png",
-    "image/信息安全/2022国赛/Pasted image 20231111142437.png",
-    "image/信息安全/2022国赛/Pasted image 20231111142122.png",
-    "image/信息安全/2022国赛/Pasted image 20231111141708.png",
-    "image/信息安全/2022国赛/Pasted image 20231111141427.png",
     "image/屏幕截图 2023-11-11 101911.png.md",
     "image/信息安全/2022国赛",
     "image/信息安全",
