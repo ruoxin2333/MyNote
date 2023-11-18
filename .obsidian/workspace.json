@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2022省赛（山东）/2022年省赛.md"
+                "file": "信息安全/2023国赛/2023国赛笔记.md"
               }
             }
           },
@@ -157,8 +158,8 @@
   },
   "active": "37848960f48897e8",
   "lastOpenFiles": [
-    "网络运维.md",
     "信息安全/2022省赛（山东）/2022年省赛.md",
+    "网络运维.md",
     "image/信息安全/2023国赛/Pasted image 20231118163629.png",
     "image/信息安全/2023国赛/Pasted image 20231118163346.png",
     "image/信息安全/2023国赛/Pasted image 20231118163156.png",
