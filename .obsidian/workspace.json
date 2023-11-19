@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32621aef6daa453d",
@@ -158,6 +157,8 @@
   },
   "active": "37848960f48897e8",
   "lastOpenFiles": [
+    "信息安全/2022省赛（山东）/2022年省赛.md",
+    "信息安全/2023国赛/2023国赛笔记.md",
     "image/信息安全/2023国赛/Pasted image 20231119135026.png",
     "image/信息安全/2023国赛/Pasted image 20231119134807.png",
     "image/信息安全/2023国赛/Pasted image 20231119134638.png",
@@ -168,9 +169,6 @@
     "image/信息安全/2023国赛/Pasted image 20231119133153.png",
     "image/信息安全/2023国赛/Pasted image 20231119132901.png",
     "image/信息安全/2023国赛/Pasted image 20231119132801.png",
-    "image/信息安全/2023国赛/Pasted image 20231119125814.png",
-    "信息安全/2023国赛/2023国赛笔记.md",
-    "信息安全/2022省赛（山东）/2022年省赛.md",
     "网络运维.md",
     "image/信息安全/2022国赛",
     "信息安全/2022省赛（山东）/完成总结.md",
