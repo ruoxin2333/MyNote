@@ -156,11 +156,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f227293e3e81c",
+  "active": "37848960f48897e8",
   "lastOpenFiles": [
+    "image/信息安全/2023国赛/Pasted image 20231116110116.png",
+    "信息安全/2023国赛/2023国赛笔记.md",
     "信息安全/2023国赛/未命名.md",
     "信息安全/2023国赛/FW.md",
-    "信息安全/2023国赛/2023国赛笔记.md",
     "image/信息安全/2023国赛/Pasted image 20231116104514.png",
     "image/信息安全/2023国赛/Pasted image 20231120095956.png",
     "image/信息安全/2023国赛/Pasted image 20231120095903.png",
@@ -202,7 +203,6 @@
     "README.md",
     "信息安全/2021国赛.md",
     "Java Web证书/SpingMVC.md",
-    "RE.md",
-    "demo.md"
+    "RE.md"
   ]
 }
