@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "948904d3d1843f27",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/信息安全/2023国赛/Pasted image 20231116104514.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2023国赛/2023国赛笔记.md",
+                "file": "image/信息安全/2023国赛/Pasted image 20231116104514.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2023国赛/2023国赛笔记.md",
+                "file": "image/信息安全/2023国赛/Pasted image 20231116104514.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2023国赛/2023国赛笔记.md"
+                "file": "image/信息安全/2023国赛/Pasted image 20231116104514.png"
               }
             }
           },
@@ -156,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37848960f48897e8",
+  "active": "948904d3d1843f27",
   "lastOpenFiles": [
+    "信息安全/2023国赛/2023国赛笔记.md",
     "image/信息安全/2023国赛/Pasted image 20231120095956.png",
     "image/信息安全/2023国赛/Pasted image 20231120095903.png",
     "image/信息安全/2023国赛/Pasted image 20231120095811.png",
@@ -166,11 +178,9 @@
     "image/信息安全/2023国赛/Pasted image 20231120092613.png",
     "image/信息安全/2023国赛/Pasted image 20231120091421.png",
     "信息安全/2022省赛（山东）/2022年省赛.md",
-    "信息安全/2023国赛/2023国赛笔记.md",
     "image/信息安全/2023国赛/Pasted image 20231119135026.png",
     "image/信息安全/2023国赛/Pasted image 20231119134807.png",
     "image/信息安全/2023国赛/Pasted image 20231119134638.png",
-    "image/信息安全/2023国赛/Pasted image 20231119134049.png",
     "网络运维.md",
     "image/信息安全/2022国赛",
     "信息安全/2022省赛（山东）/完成总结.md",
