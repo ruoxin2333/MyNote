@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "948904d3d1843f27",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/信息安全/2023国赛/Pasted image 20231116104514.png"
-              }
-            }
           }
         ]
       }
@@ -166,10 +156,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37848960f48897e8",
+  "active": "484f227293e3e81c",
   "lastOpenFiles": [
-    "image/信息安全/2023国赛/Pasted image 20231116104514.png",
+    "信息安全/2023国赛/未命名.md",
+    "信息安全/2023国赛/FW.md",
     "信息安全/2023国赛/2023国赛笔记.md",
+    "image/信息安全/2023国赛/Pasted image 20231116104514.png",
     "image/信息安全/2023国赛/Pasted image 20231120095956.png",
     "image/信息安全/2023国赛/Pasted image 20231120095903.png",
     "image/信息安全/2023国赛/Pasted image 20231120095811.png",
@@ -180,7 +172,6 @@
     "信息安全/2022省赛（山东）/2022年省赛.md",
     "image/信息安全/2023国赛/Pasted image 20231119135026.png",
     "image/信息安全/2023国赛/Pasted image 20231119134807.png",
-    "image/信息安全/2023国赛/Pasted image 20231119134638.png",
     "网络运维.md",
     "image/信息安全/2022国赛",
     "信息安全/2022省赛（山东）/完成总结.md",
