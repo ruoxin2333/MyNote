@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2023国赛/总结.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "89b2b84480dfcb1c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2023国赛/总结.md",
+                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2023国赛/总结.md",
+                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2023国赛/总结.md"
+                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png"
               }
             }
           },
@@ -155,11 +166,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37848960f48897e8",
+  "active": "89b2b84480dfcb1c",
   "lastOpenFiles": [
     "信息安全/2023国赛/2023国赛笔记.md",
-    "image/信息安全/2023国赛/Pasted image 20231116110116.png",
+    "image/信息安全/2023国赛/Pasted image 20231115091204.png",
     "信息安全/2023国赛/总结.md",
+    "image/信息安全/2023国赛/Pasted image 20231116110116.png",
     "信息安全/2023国赛/FW.md",
     "image/信息安全/2023国赛/Pasted image 20231116104514.png",
     "image/信息安全/2023国赛/Pasted image 20231120095956.png",
@@ -170,7 +182,6 @@
     "image/信息安全/2023国赛/Pasted image 20231120092613.png",
     "image/信息安全/2023国赛/Pasted image 20231120091421.png",
     "信息安全/2022省赛（山东）/2022年省赛.md",
-    "image/信息安全/2023国赛/Pasted image 20231119135026.png",
     "网络运维.md",
     "image/信息安全/2022国赛",
     "信息安全/2022省赛（山东）/完成总结.md",
