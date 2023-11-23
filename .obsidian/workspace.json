@@ -23,9 +23,11 @@
             "id": "89b2b84480dfcb1c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png"
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/信息安全/2023国赛/Pasted image 20231115085407.png"
+                "file": "信息安全/2023国赛/2023国赛笔记.md"
               }
             }
           },
@@ -168,6 +170,7 @@
   },
   "active": "89b2b84480dfcb1c",
   "lastOpenFiles": [
+    "image/信息安全/2023国赛/Pasted image 20231115085407.png",
     "信息安全/2023国赛/2023国赛笔记.md",
     "image/信息安全/2023国赛/Pasted image 20231115091204.png",
     "信息安全/2023国赛/总结.md",

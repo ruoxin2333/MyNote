@@ -1,7 +1,7 @@
 [
-  "floating-toc",
   "better-word-count",
   "obsidian-auto-pair-chinese-symbol",
   "obsidian-git",
-  "restore-tab-key"
+  "restore-tab-key",
+  "floating-toc"
 ]
