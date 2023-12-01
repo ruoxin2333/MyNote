@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd00458b078d5dae",
+            "id": "37848960f48897e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "62227bb9d651375e",
+            "id": "89b2b84480dfcb1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2023国赛/23样题/样题一.md",
+                "file": "信息安全/2023国赛/2023国赛笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc2b4d11a97ef59f",
+            "id": "045b41943f8982e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/易忘指令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf9e4adfc78df98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2023国赛/23样题/样题一.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2023国赛/23样题/样题一.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2023国赛/23样题/样题一.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,53 +179,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f227293e3e81c",
+  "active": "f0a2a8a8712b6307",
   "lastOpenFiles": [
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130215545.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130215456.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130215142.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130215025.png",
-    "信息安全/2023国赛/2023国赛笔记.md",
-    "信息安全/2022省赛（山东）/2022年省赛.md",
-    "信息安全/2023国赛/23样题/样题一.md",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130214338.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130214308.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130200807.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130190121.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130185934.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130185412.png",
-    "image/信息安全/2023国赛/样题/样题一/Pasted image 20231130185141.png",
-    "信息安全/易忘指令.md",
-    "信息安全/备注/设备恢复出厂设置与密码恢复.md",
-    "image/信息安全/2023国赛/样题/未命名.md",
-    "image/信息安全/2023国赛/样题/样题一",
-    "image/信息安全/2023国赛/样题",
-    "信息安全/2023国赛/23样题",
-    "信息安全/随记.md",
-    "信息安全/2023国赛/FW.md",
     "信息安全/2023国赛/答题卡.md",
-    "image/信息安全/2023国赛/dtk/clip_colorschememapping.xml",
-    "image/信息安全/2023国赛/dtk/clip_themedata.thmx",
-    "image/信息安全/2023国赛/dtk",
-    "image/信息安全/2023国赛/新建文件夹",
     "信息安全/2023国赛/~$SW.docx",
-    "信息安全/2023国赛/ECE8AD68.tmp",
-    "信息安全/2023国赛/36C8D843.tmp",
-    "信息安全/2023国赛/总结.md",
-    "网络运维.md",
-    "信息安全/2022省赛（山东）/完成总结.md",
+    "信息安全/2023国赛/SW.docx",
     "conflict-files-obsidian-git.md",
+    "信息安全/2023国赛/2023国赛笔记.md",
+    "image/信息安全/2023国赛/Pasted image 20231120095956.png",
+    "image/信息安全/2023国赛/Pasted image 20231125141606.png",
+    "image/信息安全/2023国赛/Pasted image 20231119125814.png",
+    "image/信息安全/2023国赛/Pasted image 20231119125755.png",
+    "image/信息安全/2023国赛/Pasted image 20231116104514.png",
+    "image/信息安全/2023国赛/Pasted image 20231124161954.png",
+    "image/信息安全/2023国赛/Pasted image 20231124161325.png",
+    "image/信息安全/2023国赛/Pasted image 20231124161045.png",
+    "image/信息安全/2023国赛/Pasted image 20231124160717.png",
+    "image/信息安全/2023国赛/Pasted image 20231124160641.png",
+    "信息安全/2023国赛/总结.md",
+    "信息安全/2023国赛/FW.md",
+    "信息安全/2022省赛（山东）/2022年省赛.md",
+    "网络运维.md",
+    "image/信息安全/2022国赛",
+    "信息安全/2022省赛（山东）/完成总结.md",
+    "image/信息安全/2022省赛",
     "Java Web证书/JavaMVC.md",
+    "信息安全/随记.md",
     "信息安全/备注/DHCPV6/DHCPV6有状态和无状态的区别.md",
     "信息安全/备注/DHCPV6/DHCPV6.md",
     "信息安全/备注/DHCPV6/DHCPV6 有状态和无状态的区别.md",
+    "信息安全/备注/设备恢复出厂设置与密码恢复.md",
+    "信息安全/备注/DHCPV6",
+    "信息安全/备注",
+    "信息安全/2023国赛",
     "信息安全/2022省赛（山东）/总结.md",
+    "信息安全/2022省赛（山东）",
     "信息安全/2021国赛/完成反思.md",
     "信息安全/2021国赛/2021国赛.md",
+    "信息安全/2021国赛",
+    "image/设备",
     "总结.md",
     "信息安全/2022年国赛.md",
     "network.md",
     "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
-    "信息安全/DHCPV6/DHCPV6.md"
+    "信息安全/DHCPV6/DHCPV6.md",
+    "README.md",
+    "信息安全/2021国赛.md",
+    "Java Web证书/SpingMVC.md",
+    "RE.md"
   ]
 }
