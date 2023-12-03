@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2023国赛/2023国赛笔记.md",
+                "file": "信息安全/2023国赛/23样题/样题二.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2023国赛/2023国赛笔记.md",
+                "file": "信息安全/2023国赛/23样题/样题一.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "信息安全/指令/样题二指令.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "信息安全/2023国赛/23样题/样题二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "信息安全/2023国赛/23样题/样题二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "信息安全/2023国赛/23样题/样题二.md"
               }
             }
           },
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,32 +179,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0a2a8a8712b6307",
+  "active": "484f227293e3e81c",
   "lastOpenFiles": [
+    "image/信息安全/2023国赛/Pasted image 20231203202044.png",
+    "image/信息安全/2023国赛/Pasted image 20231203201944.png",
+    "image/信息安全/2023国赛/Pasted image 20231203201828.png",
+    "image/信息安全/2023国赛/Pasted image 20231203201635.png",
+    "image/信息安全/2023国赛/Pasted image 20231203201532.png",
+    "image/信息安全/2023国赛/Pasted image 20231203200946.png",
+    "image/信息安全/2023国赛/Pasted image 20231203200841.png",
+    "信息安全/2023国赛/23样题/样题一.md",
+    "信息安全/2023国赛/23样题/样题二.md",
+    "image/信息安全/2023国赛/Pasted image 20231203195049.png",
+    "image/信息安全/2023国赛/Pasted image 20231203194820.png",
+    "image/信息安全/2023国赛/Pasted image 20231203194716.png",
+    "image/信息安全/2023国赛/Pasted image 20231203193637.png",
+    "信息安全/指令/样题二指令.md",
+    "信息安全/2022省赛（山东）/2022年省赛.md",
+    "信息安全/指令/12-1.md",
+    "信息安全/指令",
+    "信息安全/2023国赛/2023国赛笔记.md",
+    "信息安全/随记.md",
+    "网络运维.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "信息安全/2023国赛/答题卡.md",
     "信息安全/2023国赛/~$SW.docx",
     "信息安全/2023国赛/SW.docx",
-    "conflict-files-obsidian-git.md",
-    "信息安全/2023国赛/2023国赛笔记.md",
-    "image/信息安全/2023国赛/Pasted image 20231120095956.png",
-    "image/信息安全/2023国赛/Pasted image 20231125141606.png",
-    "image/信息安全/2023国赛/Pasted image 20231119125814.png",
-    "image/信息安全/2023国赛/Pasted image 20231119125755.png",
-    "image/信息安全/2023国赛/Pasted image 20231116104514.png",
-    "image/信息安全/2023国赛/Pasted image 20231124161954.png",
-    "image/信息安全/2023国赛/Pasted image 20231124161325.png",
-    "image/信息安全/2023国赛/Pasted image 20231124161045.png",
-    "image/信息安全/2023国赛/Pasted image 20231124160717.png",
-    "image/信息安全/2023国赛/Pasted image 20231124160641.png",
     "信息安全/2023国赛/总结.md",
     "信息安全/2023国赛/FW.md",
-    "信息安全/2022省赛（山东）/2022年省赛.md",
-    "网络运维.md",
     "image/信息安全/2022国赛",
     "信息安全/2022省赛（山东）/完成总结.md",
     "image/信息安全/2022省赛",
     "Java Web证书/JavaMVC.md",
-    "信息安全/随记.md",
     "信息安全/备注/DHCPV6/DHCPV6有状态和无状态的区别.md",
     "信息安全/备注/DHCPV6/DHCPV6.md",
     "信息安全/备注/DHCPV6/DHCPV6 有状态和无状态的区别.md",
@@ -217,15 +224,8 @@
     "信息安全/2021国赛/完成反思.md",
     "信息安全/2021国赛/2021国赛.md",
     "信息安全/2021国赛",
-    "image/设备",
     "总结.md",
     "信息安全/2022年国赛.md",
-    "network.md",
-    "信息安全/DHCPV6/DHCPV6 有状态和无状态的区别.md",
-    "信息安全/DHCPV6/DHCPV6.md",
-    "README.md",
-    "信息安全/2021国赛.md",
-    "Java Web证书/SpingMVC.md",
-    "RE.md"
+    "network.md"
   ]
 }
