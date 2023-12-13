@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "image/信息安全/2023国赛",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "useMarkdownLinks": true
