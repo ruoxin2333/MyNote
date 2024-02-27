@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息安全/2023省赛/样题.md",
+                "file": "信息安全/2022省赛（山东）/2022年省赛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6db985dcc736be8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小鹤双拼/练习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67e312a3dbc65c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小鹤双拼/练习.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息安全/2023省赛/样题.md",
+                "file": "小鹤双拼/练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息安全/2023省赛/样题.md",
+                "file": "小鹤双拼/练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息安全/2023省赛/样题.md"
+                "file": "小鹤双拼/练习.md"
               }
             }
           },
@@ -191,8 +215,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f227293e3e81c",
+  "active": "67e312a3dbc65c19",
   "lastOpenFiles": [
+    "新建文档/未命名.md",
+    "小鹤双拼/练习.md",
+    "新建文档",
+    "信息安全/2022省赛（山东）/2022年省赛.md",
+    "小鹤双拼",
+    "信息安全/2023国赛/2023国赛笔记.md",
     "image/信息安全/2023国赛/Pasted image 20231212203606.png",
     "image/信息安全/2023国赛/Pasted image 20231212203456.png",
     "image/信息安全/2023国赛/Pasted image 20231212203240.png",
@@ -205,12 +235,10 @@
     "image/信息安全/2023国赛/Pasted image 20231212161958.png",
     "信息安全/2023国赛/23样题/样题二.md",
     "信息安全/2023省赛/样题.md",
-    "image/信息安全/2023国赛/Pasted image 20231212153518.png",
     "![](image/信息安全/2023国赛/Pasted image 20231212150241.png.md",
     "![](image/信息安全/2023国赛",
     "![](image/信息安全",
     "![](image",
-    "信息安全/2023国赛/2023国赛笔记.md",
     "信息安全/2023国赛/23样题/样题一.md",
     "信息安全/2023国赛/23样题/样题三.md",
     "信息安全/随记.md",
@@ -221,7 +249,6 @@
     "信息安全/指令/12-1.md",
     "信息安全/指令/样题二指令.md",
     "信息安全/指令/不会.md",
-    "信息安全/2022省赛（山东）/2022年省赛.md",
     "信息安全/指令",
     "网络运维.md",
     "conflict-files-obsidian-git.md",
@@ -232,12 +259,9 @@
     "信息安全/2023国赛/FW.md",
     "image/信息安全/2022国赛",
     "信息安全/2022省赛（山东）/完成总结.md",
-    "image/信息安全/2022省赛",
     "Java Web证书/JavaMVC.md",
     "信息安全/备注/DHCPV6/DHCPV6有状态和无状态的区别.md",
     "信息安全/备注/DHCPV6/DHCPV6.md",
-    "信息安全/备注/DHCPV6/DHCPV6 有状态和无状态的区别.md",
-    "信息安全/备注/设备恢复出厂设置与密码恢复.md",
-    "信息安全/备注/DHCPV6"
+    "信息安全/备注/DHCPV6/DHCPV6 有状态和无状态的区别.md"
   ]
 }
